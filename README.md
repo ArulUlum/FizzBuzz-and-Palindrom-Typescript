@@ -1,5 +1,5 @@
-# FizzBuzz dan Palindrom menggunakan Node.js
-Code FizzBuzz dan Palindrom menggunakan Node.js.
+# FizzBuzz dan Palindrom menggunakan Typescript
+Code FizzBuzz dan Palindrom menggunakan Typescript.
 
 ## Instalasi
 Instal typescript secara global dengan perintah berikut:
